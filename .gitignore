@@ -4,3 +4,9 @@
 .cache
 .pytest_cache
 *.retry
+
+*.tar
+*.pub
+credentials.json
+google_compute_engine
+secrets.tar
