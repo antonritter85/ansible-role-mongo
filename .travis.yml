@@ -4,7 +4,7 @@ python:
 install:
 - pip install ansible molecule apache-libcloud
 script:
-- molecule --debug create
+- molecule create
 - molecule converge
 - molecule verify
 after_script:
