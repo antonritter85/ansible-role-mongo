@@ -4,6 +4,9 @@
 .cache
 .pytest_cache
 *.retry
+venv
+
+.vscode
 
 *.tar
 *.pub
